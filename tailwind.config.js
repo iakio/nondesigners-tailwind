@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        display: ['Cinzel', 'serif']
+        display: ['Cinzel', 'serif'],
+        bubbler: ['"Bubbler One"', 'sans-serif'],
+        merriweather: ['Merriweather', 'serif']
       },
     },
   },
